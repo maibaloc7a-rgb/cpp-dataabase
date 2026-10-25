@@ -1,2 +1,2 @@
 # cpp-dataabase
-idk
+exercise with cpp 
